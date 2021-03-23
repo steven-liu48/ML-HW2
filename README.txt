@@ -3,8 +3,7 @@ Question 4： Understanding model complexity and overfitting
 Steven Liu (xl2948)
 
 First put digits.mat in the current directory. Then, either enter "python main.py" on Terminal or use PyCharm to run.
-You can change K (max depth of the tree) and rate_of_training (percentage of training data in the dataset) in the main
-function (Line 192-193).
+You can change K (max depth of the tree) and rate_of_training (percentage of training data in the dataset) in the main function (Line 192-193).
 
 
 
